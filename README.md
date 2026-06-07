@@ -14,7 +14,7 @@ and produce actionable business recommendations.
 1. Which product category drives the most revenue? Which is most *profitable*?
 2. Which region is our strongest performer? Which needs attention?
 3. How have sales trended month-over-month across 3 years?
-4. Do discounts drive sales — or silently destroy our margins?
+4. Do discounts drive sales or silently destroy our margins?
 5. Which states are our best and worst markets?
 
 ---
@@ -35,10 +35,10 @@ and produce actionable business recommendations.
 
 ## Tools & Skills Used
 - Python (Pandas, Matplotlib, Seaborn)
-- Data Cleaning — date parsing, type conversion, duplicate detection
-- Exploratory Data Analysis (EDA) — groupby, aggregation, time series
-- Data Visualisation — 5 publication-quality charts
-- Business Storytelling — translating data into decisions
+- Data Cleaning: date parsing, type conversion, duplicate detection
+- Exploratory Data Analysis (EDA) groupby, aggregation, time series
+- Data Visualisation: 5 publication-quality charts
+- Business Storytelling: translating data into decisions
 
 ---
 
