@@ -1,7 +1,7 @@
-# 🛒 Superstore Sales Analysis
+Superstore Sales Analysis
 *Portfolio Project 1 — Data Analyst Track*
 
-## 📌 Project Overview
+# Project Overview
 An end-to-end exploratory data analysis of a retail superstore's sales data (2021–2023).
 The goal was to identify key drivers of revenue and profit, uncover underperforming segments,
 and produce actionable business recommendations.
@@ -10,7 +10,7 @@ and produce actionable business recommendations.
 
 ---
 
-## ❓ Business Questions Answered
+# Business Questions Answered
 1. Which product category drives the most revenue? Which is most *profitable*?
 2. Which region is our strongest performer? Which needs attention?
 3. How have sales trended month-over-month across 3 years?
@@ -19,7 +19,7 @@ and produce actionable business recommendations.
 
 ---
 
-## 📈 Charts
+# Charts
 
 ![Category Performance](output/01_category_performance.png)
 
@@ -42,12 +42,12 @@ and produce actionable business recommendations.
 
 ---
 
-## 📁 Project Structure
+# Project Structure
 ```
 project1_superstore/
 ├── data/
 │   └── generate_dataset.py   # Script to generate the dataset
-├── analysis.py               # Main analysis script (beginner-commented)
+├── analysis.py               # Main analysis script
 ├── superstore_sales.csv      # Dataset (5,000 rows, 14 columns)
 └── output/                   # Generated charts
     ├── 01_category_performance.png
@@ -57,7 +57,7 @@ project1_superstore/
     └── 05_state_performance.png
 ```
 
-## 🚀 How to Run
+# How to Run
 ```bash
 pip install pandas matplotlib seaborn
 python analysis.py
