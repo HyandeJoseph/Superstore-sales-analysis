@@ -1,5 +1,5 @@
-Superstore Sales Analysis
-*Portfolio Project 1 — Data Analyst Track*
+# Superstore Sales Analysis
+*Portfolio Project 1: Data Analyst Track*
 
 # Project Overview
 An end-to-end exploratory data analysis of a retail superstore's sales data (2021–2023).
