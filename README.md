@@ -19,15 +19,15 @@ and produce actionable business recommendations.
 
 ---
 
-## 📊 Key Findings
+## 📈 Charts
 
-| Finding | Insight |
-|---|---|
-| **Furniture** leads revenue | But lowest profit margin at only 7.4% |
-| **Office Supplies** | Highest margin at 30.3% despite smallest revenue |
-| **Discounts 31%+** | Drive negative profit margins — a major leak |
-| **South region** | Leads in sales volume |
-| **Q4 seasonality** | Clear sales spike every October–December |
+![Category Performance](output/01_category_performance.png)
+
+![Sales Trend](output/03_sales_trend.png)
+
+![Discount Analysis](output/04_discount_analysis.png)
+
+![State Performance](output/05_state_performance.png)
 
 > Analyst recommendation: Cap discounts at 20%. Investigate furniture cost structure.
 
