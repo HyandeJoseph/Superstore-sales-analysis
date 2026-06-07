@@ -10,7 +10,7 @@ and produce actionable business recommendations.
 
 ---
 
-# Business Questions Answered
+## Business Questions Answered
 1. Which product category drives the most revenue? Which is most *profitable*?
 2. Which region is our strongest performer? Which needs attention?
 3. How have sales trended month-over-month across 3 years?
@@ -19,7 +19,7 @@ and produce actionable business recommendations.
 
 ---
 
-# Charts
+## Charts
 
 ![Category Performance](output/01_category_performance.png)
 
@@ -42,7 +42,7 @@ and produce actionable business recommendations.
 
 ---
 
-# Project Structure
+## Project Structure
 ```
 project1_superstore/
 ├── data/
@@ -57,7 +57,7 @@ project1_superstore/
     └── 05_state_performance.png
 ```
 
-# How to Run
+## How to Run
 ```bash
 pip install pandas matplotlib seaborn
 python analysis.py
